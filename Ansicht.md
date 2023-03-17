@@ -16,3 +16,17 @@
 1. Im Menü `Help` der oberen Menüleiste `Eclipse Marketplace . . .` auswählen.
 2. Dort wird nach `Darkest Dark theme from DevStyle` gesucht und deses über `Install` installiert.
 3.  - Comming soon - 
+
+## Perspektive
+
+### Die Standardansicht
+Wenn die Standardansicht mal "verloren" geht kann diese über flgende Schritte wiederhergestellt werden:
+1. Im Menü `Window` der oberen Menüleiste `Perspective` -> `Open Perspective` -> `Other . . .` auswählen.
+2. Als Perspektive wird `Java EE (default)` ausgewählt.
+
+Sollte die Ansicht noch nicht (zufriedenstellend) wiederhergestellt sein kann die Ansicht zurückgesetzt werden.
+
+1. Im Menü `Window` der oberen Menüleiste `Perspective` -> `Reset Perspective . . .`
+2. Den Dialog mit `Reset Perspective` bestätigen.
+
+Nun wurde die Standardansicht wiederhergestellt.
