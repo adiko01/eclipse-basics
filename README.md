@@ -7,4 +7,4 @@ Dieses Repo soll eine kleine Sammlung an Funktionen in **eclipse** für die VINF
 
 |-[Darkmode](Ansicht.md#darkmode)
 
-|-[Perspektiver Wiederherstellen](Ansicht.md#perspektive)
+|-[Perspektive Wiederherstellen](Ansicht.md#perspektive)

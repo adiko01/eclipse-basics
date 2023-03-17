@@ -14,8 +14,16 @@
 
 ### Der Darkmode von DevStyle
 1. Im Menü `Help` der oberen Menüleiste `Eclipse Marketplace . . .` auswählen.
-2. Dort wird nach `Darkest Dark theme from DevStyle` gesucht und deses über `Install` installiert.
-3.  - Comming soon - 
+2. Dort wird nach `Darkest Dark theme from DevStyle` gesucht und die installation über `Install` *(Roter Pfeil auf dem Bild unten)* gestartet.
+3. Die Selected Faetures werden beim Standard belassen und mit `Confirm >` auf den nächsten Schritt begeben.
+4. Die Lizenzbedingungen akzeptieren und mit `Finish` bestätigen.
+5. Wuf das Pop-Up `Restart now` warten und dort bestätigen.
+6. Imm Hello Bildschirm auf `Next >`.
+7. Dann den Style `Darkest Dark Theme` auswählen und mit `Next >` bestätigen.
+8. Es kommt eine Windows Defender Meldung von Eclipse. (Dieser Schritt ist Optional `Fix Automatically` und bestätigen)
+9. Nachd er Anleitung [oben](Ansicht.md#der-standard-darkmode-von-eclipse) das neue Theme aktivieren. 
+
+![](/Bilder/Ansicht/Marketplace-Darkest-Dark.jpg)
 
 ## Perspektive
 
