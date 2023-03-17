@@ -13,3 +13,6 @@
 ![](/Bilder/Ansicht/Preferences-Appearance.png)
 
 ### Der Darkmode von DevStyle
+1. Im Menü `Help` der oberen Menüleiste `Eclipse Marketplace . . .` auswählen.
+2. Dort wird nach `Darkest Dark theme from DevStyle` gesucht und deses über `Install` installiert.
+3.  - Comming soon - 
