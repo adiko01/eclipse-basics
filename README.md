@@ -8,3 +8,7 @@ Dieses Repo soll eine kleine Sammlung an Funktionen in **eclipse** für die VINF
 |-[Darkmode](Ansicht.md#darkmode)
 
 |-[Perspektive Wiederherstellen](Ansicht.md#perspektive)
+
+[Debugger](Debugger.md)
+
+|-[Steuerfunktionen des Debuggers](Debugger.md#Steuerfunktionen)
