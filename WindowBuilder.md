@@ -9,7 +9,7 @@
 Der WindowBuilder kann nur Klassen, welche er selbst angelegt hat auch ordentlich öffenen.
 
 ### Fenster anlegen
-1. Rechsklick in das Projekt und wähle `New` -> `Other...`
+1. Rechsklick in das Package und wähle `New` -> `Other...`
 2. Dort wähle den Ornder `WindowBuilder` und wähle dort die gewünschte Art aus.
 3. Vergebe einen `Name` und wähle ggf. das `Package`
 4. Schließe mit `Finish` alles ab.
